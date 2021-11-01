@@ -9,7 +9,7 @@ Configuration Management: Ansible
 🌱 I’m currently studying for CompTIA Security+ certication
 👯 I’m looking to collaborate on
 Open Source Chat Bot Projects for DevOps and Vulnerabilities
- 
+
 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/stefany-paz
 GitHub: https://github.com/stefanyp95/
